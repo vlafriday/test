@@ -3,3 +3,4 @@ Hello World!
 Hello Everyone!
 
 Add new phrase
+This is my new line
